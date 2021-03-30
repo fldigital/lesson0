@@ -1,0 +1,49 @@
+[33mcommit ce70cfadcb94de1fb57e0b5798fdf4d18ba870f7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: baf2875 5815d2e
+Author: Mike S <mike@mikeschoenbach.com>
+Date:   Tue Mar 30 12:29:57 2021 -0400
+
+    Latest
+
+[33mcommit baf28758ea1f14840c32ba4dc3094d34cb3d3f57[m
+Author: Mike S <mike@mikeschoenbach.com>
+Date:   Tue Mar 30 12:27:58 2021 -0400
+
+    Latest version after reset
+
+[33mcommit 5815d2ebeb8618ed783e15816ebcfc90e678497b[m
+Merge: 169b687 bc40076
+Author: Mike S <mike@mikeschoenbach.com>
+Date:   Tue Mar 30 12:15:33 2021 -0400
+
+    Resolved conflicts
+
+[33mcommit 169b687ce5b491fa6980397c55c46c1233c53c2f[m
+Author: Mike S <mike@mikeschoenbach.com>
+Date:   Tue Mar 30 12:07:52 2021 -0400
+
+    As of noon
+
+[33mcommit bc400761b2d0ef5835e4213ecff8fdd3d79abb07[m
+Author: fldigital <54418703+fldigital@users.noreply.github.com>
+Date:   Tue Mar 30 12:07:14 2021 -0400
+
+    Update hello.html
+
+[33mcommit 1da977c3c005818dea5bb77b97f79d053405042d[m
+Author: fldigital <54418703+fldigital@users.noreply.github.com>
+Date:   Tue Mar 30 12:02:45 2021 -0400
+
+    Update hello.html
+
+[33mcommit dd4d44bb2b980979365625b51aa55ccaf9712e27[m
+Author: Mike S <mike@mikeschoenbach.com>
+Date:   Tue Mar 30 11:56:56 2021 -0400
+
+    Added more content to hello.html
+
+[33mcommit f3ad1396e16a092d7cd7ffe524ba1a036070f766[m
+Author: Mike S <mike@mikeschoenbach.com>
+Date:   Tue Mar 30 11:45:16 2021 -0400
+
+    Added hello.html
